@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Moongazing
+- 👀 I’m interested in C#,Pyhton,OOP,SQL 
+- 🌱 I’m currently learning eBA
+- 📫 How to reach me twitter/moongazng2 or i have linkedin link on my profile.
+
+<!---
+Moongazing/Moongazing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
