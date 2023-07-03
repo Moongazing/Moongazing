@@ -1,7 +1,8 @@
 <img src ="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmM4N2M1NzE4NDg0YWE5N2Q4NDdjMDRhMDJmNTY1NmJjNWRmODBjMSZjdD1n/MeJgB3yMMwIaHmKD4z/giphy.gif" align="right" width="300" height="300" >
 
 <h1 align="center">Hi 👋, I'm Tunahan Ali</h1>
-<h3 align="center">I am a C#(.Net & .Net Core) Developer</h3>
+<h3 align="center">I am a .Net Developer</h3>
+<h3>I am currently learning Phyton for Data Science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moongazing&label=Profile%20views&color=0e75b6&style=flat" alt="moongazing" /> </p>
 
