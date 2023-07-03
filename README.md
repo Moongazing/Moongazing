@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Tunahan Ali</h1>
 <h3 align="center">I am a .Net Developer</h3>
-<h3>I am currently learning Phyton for Data Science</h3>
+<h3 align="center">I am currently learning Phyton for Data Science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moongazing&label=Profile%20views&color=0e75b6&style=flat" alt="moongazing" /> </p>
 
