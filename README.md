@@ -1,7 +1,7 @@
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmM4N2M1NzE4NDg0YWE5N2Q4NDdjMDRhMDJmNTY1NmJjNWRmODBjMSZjdD1n/MeJgB3yMMwIaHmKD4z/giphy.gif" align="right" width="200" height="200">
 
 # 👋 Hi, I'm **Tunahan Ali** 
 ### 🚀 Senior Backend .NET Developer | Tech Enthusiast | Full Stack Innovator  
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmM4N2M1NzE4NDg0YWE5N2Q4NDdjMDRhMDJmNTY1NmJjNWRmODBjMSZjdD1n/MeJgB3yMMwIaHmKD4z/giphy.gif" align="right" width="200" height="200">
 
 
 I'm a **Senior Backend Developer** with 7+ years of experience in designing, developing, and scaling high-performance systems. My passion lies in creating reliable, maintainable, and efficient software solutions using cutting-edge technologies. From microservices architecture to cloud-native applications, I bring ideas to life with clean, scalable code.  
