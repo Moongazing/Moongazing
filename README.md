@@ -1,43 +1,51 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmM4N2M1NzE4NDg0YWE5N2Q4NDdjMDRhMDJmNTY1NmJjNWRmODBjMSZjdD1n/MeJgB3yMMwIaHmKD4z/giphy.gif" align="right" width="300" height="300">
 
 # 👋 Hi, I'm **Tunahan Ali**  
-### 🚀 Senior Backend .NET Developer | Full Stack Innovator  
+### 🚀 Senior Backend .NET Developer | Tech Enthusiast | Full Stack Innovator  
 
-I'm a passionate and skilled **Senior Backend Developer** with expertise in building scalable, high-performance systems using **.NET**, **C#**, and cloud technologies like **Azure** and **AWS**. I also extend my capabilities as a **Full Stack Developer** by working on innovative personal projects.  
+I'm a **Senior Backend Developer** with 7+ years of experience in designing, developing, and scaling high-performance systems. My passion lies in creating reliable, maintainable, and efficient software solutions using cutting-edge technologies. From microservices architecture to cloud-native applications, I bring ideas to life with clean, scalable code.  
 
 ---
 
-### 🌟 **What I Do**  
-- 💡 **Design & Architect**: Creating scalable, maintainable backend solutions with a microservices approach.  
-- 🔧 **Problem Solver**: Providing solutions in high-demand environments with expertise in **CI/CD**, **cloud infrastructure**, and **databases**.  
-- 💻 **Tech Stack Mastery**: Proficient in **C#**, **.NET Core**, **Entity Framework**, **SQL Server**, **MongoDB**, and more.  
+### 🌟 **About Me**  
+- 💻 **Backend Expertise**: Building enterprise-grade applications with **.NET**, **C#**, **EF Core**, and **SQL Server**.  
+- 🌐 **Full Stack Innovator**: Developing dynamic web applications with **Angular**, **JavaScript**, **TypeScript**, and **Node.js**.  
+- ☁️ **Cloud Native**: Proficient in deploying, managing, and scaling applications on **Azure**, **AWS**, and **Docker** environments.  
+- 📊 **Problem Solver**: Specializing in distributed systems, caching, and high-traffic APIs using **Redis**, **RabbitMQ**, and **ElasticSearch**.  
+- 🎯 **Continuous Learner**: Exploring emerging technologies like **Kubernetes**, **GraphQL**, and **Blazor**.  
 
 ---
 
 ### 🛠️ **Technologies & Tools**  
 <p align="center">
-  <a href="https://dotnet.microsoft.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="50" height="50"/>
-  </a>
-  <a href="https://azure.microsoft.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="50" height="50"/>
-  </a>
-  <a href="https://www.rabbitmq.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="50" height="50"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="50" height="50"/>
-  </a>
-  <a href="https://redis.io" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="50" height="50"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/>
-  </a>
-  <a href="https://angular.io" target="_blank">
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="50" height="50"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50"/>
+  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="ElasticSearch" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50"/>
 </p>
+
+---
+
+### 🏆 **Key Achievements**  
+- 🚀 **Developed Scalable Microservices**: Successfully implemented distributed systems with **.NET Core** and **RabbitMQ**, improving performance by 40%.  
+- 📈 **Cloud Migrations**: Migrated monolithic applications to **Azure Kubernetes Service (AKS)**, reducing downtime and infrastructure costs.  
+- 🔄 **Real-Time APIs**: Built responsive, real-time APIs with **SignalR** and **Redis**, supporting thousands of concurrent users.  
+- 🔍 **Enhanced Search Systems**: Designed a dynamic search architecture using **ElasticSearch**, enabling millisecond query responses.  
 
 ---
 
@@ -50,8 +58,8 @@ I'm a passionate and skilled **Senior Backend Developer** with expertise in buil
 
 ---
 
-### 📫 **How to Reach Me**  
-I'm always open to new opportunities, collaborations, or just a friendly chat. Connect with me!  
+### 🌍 **Let's Connect**  
+📫 Reach me at **tunahan.ali.ozturk@outlook.com**  
 
 <p align="center">
   <a href="https://twitter.com/moongazing2" target="_blank">
