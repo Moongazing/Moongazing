@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmM4N2M1NzE4NDg0YWE5N2Q4NDdjMDRhMDJmNTY1NmJjNWRmODBjMSZjdD1n/MeJgB3yMMwIaHmKD4z/giphy.gif" align="right" width="300" height="300">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmM4N2M1NzE4NDg0YWE5N2Q4NDdjMDRhMDJmNTY1NmJjNWRmODBjMSZjdD1n/MeJgB3yMMwIaHmKD4z/giphy.gif" align="right" width="200" height="200">
 
 # 👋 Hi, I'm **Tunahan Ali** 
 ### 🚀 Senior Backend .NET Developer | Tech Enthusiast | Full Stack Innovator  
