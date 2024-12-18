@@ -5,8 +5,6 @@
 
 I'm a **Senior Backend Developer** with 7+ years of experience in designing, developing, and scaling high-performance systems. My passion lies in creating reliable, maintainable, and efficient software solutions using cutting-edge technologies. From microservices architecture to cloud-native applications, I bring ideas to life with clean, scalable code.  
 
----
-
 ### 🌟 **About Me**  
 - 💻 **Backend Expertise**: Building enterprise-grade applications with **.NET**, **C#**, **EF Core**, and **SQL Server**.  
 - 🌐 **Full Stack Innovator**: Developing dynamic web applications with **Angular**, **JavaScript**, **TypeScript**, and **Node.js**.  
@@ -14,7 +12,7 @@ I'm a **Senior Backend Developer** with 7+ years of experience in designing, dev
 - 📊 **Problem Solver**: Specializing in distributed systems, caching, and high-traffic APIs using **Redis**, **RabbitMQ**, and **ElasticSearch**.  
 - 🎯 **Continuous Learner**: Exploring emerging technologies like **Kubernetes**, **GraphQL**, and **Blazor**.  
 
----
+
 
 ### 🛠️ **Technologies & Tools**  
 <p align="center">
@@ -39,15 +37,12 @@ I'm a **Senior Backend Developer** with 7+ years of experience in designing, dev
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50"/>
 </p>
 
----
 
 ### 🏆 **Key Achievements**  
 - 🚀 **Developed Scalable Microservices**: Successfully implemented distributed systems with **.NET Core** and **RabbitMQ**, improving performance by 40%.  
 - 📈 **Cloud Migrations**: Migrated monolithic applications to **Azure Kubernetes Service (AKS)**, reducing downtime and infrastructure costs.  
 - 🔄 **Real-Time APIs**: Built responsive, real-time APIs with **SignalR** and **Redis**, supporting thousands of concurrent users.  
 - 🔍 **Enhanced Search Systems**: Designed a dynamic search architecture using **ElasticSearch**, enabling millisecond query responses.  
-
----
 
 ### 📈 **Stats at a Glance**  
 <p align="center">
@@ -56,7 +51,7 @@ I'm a **Senior Backend Developer** with 7+ years of experience in designing, dev
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=moongazing&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
----
+
 
 ### 🌍 **Let's Connect**  
 📫 Reach me at **tunahan.ali.ozturk@outlook.com**  
