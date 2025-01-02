@@ -6,11 +6,11 @@ I'm a Senior Backend Developer with 8+ years of experience in crafting scalable,
 
 
 🌟 About Me
-    💻 Backend Expert: Proficient in .NET, C#, Entity Framework Core, and RESTful APIs, focusing on clean, maintainable, and scalable solutions.
-    ☁️ Cloud Architect: Advanced skills in Azure and AWS cloud environments, leveraging Docker, Kubernetes, and GitHub Actions for CI/CD workflows.
-    📊 Database Specialist: Mastery of MSSQL, PostgreSQL, MongoDB, Redis, and ElasticSearch, optimizing performance for high-traffic systems.
-    🌐 Full Stack Innovator: Experienced in Angular, JavaScript, TypeScript, and responsive web design with CSS3.
-    🧠 Continuous Learner: Exploring Golang, Python, GraphQL, and Blazor to stay ahead of the tech curve.
+💻 Backend Expert: Proficient in .NET, C#, Entity Framework Core, and RESTful APIs, focusing on clean, maintainable, and scalable solutions.
+☁️ Cloud Architect: Advanced skills in Azure and AWS cloud environments, leveraging Docker, Kubernetes, and GitHub Actions for CI/CD workflows.
+📊 Database Specialist: Mastery of MSSQL, PostgreSQL, MongoDB, Redis, and ElasticSearch, optimizing performance for high-traffic systems.
+🌐 Full Stack Innovator: Experienced in Angular, JavaScript, TypeScript, and responsive web design with CSS3.
+🧠 Continuous Learner: Exploring Golang, Python, GraphQL, and Blazor to stay ahead of the tech curve.
 
 
 🛠️ Technologies & Tools
@@ -18,11 +18,11 @@ I'm a Senior Backend Developer with 8+ years of experience in crafting scalable,
 
 
 🏆 Key Achievements
-    🚀 Scalable Microservices: Designed and implemented distributed microservices with .NET Core, RabbitMQ, and Redis, improving system scalability and response time.
-    📈 Cloud Migrations: Successfully migrated on-prem monolithic applications to Azure Kubernetes Service (AKS), achieving seamless scalability and reduced costs.
-    🔄 Real-Time Communication: Built real-time applications using SignalR and WebSockets, handling thousands of concurrent connections.
-    🔍 Enhanced Search Systems: Developed a highly optimized search engine with ElasticSearch, enabling millisecond query responses for complex datasets.
-    🌐 Multi-Tenant Applications: Architected and deployed multi-tenant SaaS platforms using EF Core, Redis, and OData.
+🚀 Scalable Microservices: Designed and implemented distributed microservices with .NET Core, RabbitMQ, and Redis, improving system scalability and response time.
+📈 Cloud Migrations: Successfully migrated on-prem monolithic applications to Azure Kubernetes Service (AKS), achieving seamless scalability and reduced costs.
+🔄 Real-Time Communication: Built real-time applications using SignalR and WebSockets, handling thousands of concurrent connections.
+🔍 Enhanced Search Systems: Developed a highly optimized search engine with ElasticSearch, enabling millisecond query responses for complex datasets.
+ 🌐 Multi-Tenant Applications: Architected and deployed multi-tenant SaaS platforms using EF Core, Redis, and OData.
 
 
 
