@@ -1,34 +1,93 @@
-👋 Hi, I'm Tunahan Ali
-🚀 Senior Backend .NET Developer | Cloud Architect | Tech Enthusiast
+# 👋 Hi, I'm Tunahan Ali Öztürk
+
+🚀 **Senior Backend .NET Developer | Cloud Architect | Microservices Enthusiast**
+
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmM4N2M1NzE4NDg0YWE5N2Q4NDdjMDRhMDJmNTY1NmJjNWRmODBjMSZjdD1n/MeJgB3yMMwIaHmKD4z/giphy.gif" align="right" width="250" height="250">
 
-I'm a Senior Backend Developer with 8+ years of experience in crafting scalable, maintainable, and efficient software solutions. With expertise in .NET, cloud technologies, and distributed systems, I design and implement robust architectures that tackle real-world challenges. My journey spans building microservices, developing cloud-native applications, and delivering solutions that drive value.
+I'm a passionate software engineer with over **8 years of hands-on experience** building high-performance, scalable, and distributed backend systems. From **designing microservices** to **cloud-native applications**, I turn complex business requirements into elegant, maintainable code.
 
+---
 
-🌟 About Me
-💻 Backend Expert: Proficient in .NET, C#, Entity Framework Core, and RESTful APIs, focusing on clean, maintainable, and scalable solutions.
-☁️ Cloud Architect: Advanced skills in Azure and AWS cloud environments, leveraging Docker, Kubernetes, and GitHub Actions for CI/CD workflows.
-📊 Database Specialist: Mastery of MSSQL, PostgreSQL, MongoDB, Redis, and ElasticSearch, optimizing performance for high-traffic systems.
-🌐 Full Stack Innovator: Experienced in Angular, JavaScript, TypeScript, and responsive web design with CSS3.
-🧠 Continuous Learner: Exploring Golang, Python, GraphQL, and Blazor to stay ahead of the tech curve.
+## 💡 What I Do
 
+- 💻 **Backend Engineering:** Building robust APIs and services with **.NET 8, C#, and Entity Framework Core**, focusing on performance, scalability, and clean architecture (DDD, Hexagonal, Layered).
+- ☁️ **Cloud Architecture:** Architecting and deploying resilient systems on **Azure** and **AWS**, utilizing **Docker**, **Kubernetes**, and **GitHub Actions** for modern DevOps workflows.
+- 🧠 **Distributed Systems:** Creating **event-driven**, **message-based architectures** using **RabbitMQ**, **Redis**, and **gRPC**.
+- 📊 **Database Mastery:** Expert in **MSSQL**, **PostgreSQL**, **MongoDB**, and **ElasticSearch**, crafting optimized, high-throughput data models.
+- 🌍 **Full-Stack When Needed:** Skilled in **Angular**, **TypeScript**, and **responsive design**, bringing end-to-end solutions when needed.
+- 🔬 **Tech Explorer:** Constantly exploring **Golang**, **Python**, **GraphQL**, and **Blazor** to stay ahead in the tech game.
 
-🛠️ Technologies & Tools
-<p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="50" height="50"/> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50"/> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="ElasticSearch" width="50" height="50"/> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/golang/golang-original.svg" alt="Golang" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50"/> </p>
+---
 
+## 🏆 Career Highlights
 
-🏆 Key Achievements
-🚀 Scalable Microservices: Designed and implemented distributed microservices with .NET Core, RabbitMQ, and Redis, improving system scalability and response time.
-📈 Cloud Migrations: Successfully migrated on-prem monolithic applications to Azure Kubernetes Service (AKS), achieving seamless scalability and reduced costs.
-🔄 Real-Time Communication: Built real-time applications using SignalR and WebSockets, handling thousands of concurrent connections.
-🔍 Enhanced Search Systems: Developed a highly optimized search engine with ElasticSearch, enabling millisecond query responses for complex datasets.
- 🌐 Multi-Tenant Applications: Architected and deployed multi-tenant SaaS platforms using EF Core, Redis, and OData.
+- 🚀 **Designed Scalable Microservices** using .NET Core, RabbitMQ & Redis, significantly improving system resilience and scalability.
+- ☁️ **Led Cloud Migrations** from monolithic apps to **Azure Kubernetes Service (AKS)**, optimizing cost and deployment speed.
+- 📈 **Built Real-Time Systems** with SignalR and WebSockets for thousands of concurrent users.
+- 🔍 **Engineered High-Speed Search** with ElasticSearch, achieving millisecond-level response times for large datasets.
+- 🌐 **Architected Multi-Tenant SaaS Platforms** with dynamic schema support using EF Core, Redis & OData.
 
+---
 
+## 🛠️ Tech Toolbox
 
-📈 Stats at a Glance
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=moongazing&show_icons=true&theme=radical" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=moongazing&theme=radical" alt="GitHub Streak" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=moongazing&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" /> </p>
-🌍 Let's Connect
+<p align="center">
+  <!-- Backend -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/grpc-1.svg" alt="gRPC" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" alt="GraphQL" width="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/kafka.svg" alt="Apache Kafka" width="40" />
+  <img src="https://learn.microsoft.com/en-us/aspnet/core/signalr/media/signalr-logo.png" alt="SignalR" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/OData-logo.png" alt="OData" width="40" />
 
-📫 tunahan.ali.ozturk@outlook.com
-<p align="center"> <a href="https://linkedin.com/in/tunahan-ali-ozturk" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/> </a> <a href="https://twitter.com/moongazing2" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="40" height="40"/> </a> <a href="https://instagram.com/moongazinng" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40"/> </a> <a href="https://www.leetcode.com/moongazing" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="40" height="40"/> </a> </p>
+  <!-- Cloud & DevOps -->
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/github-actions.svg" alt="GitHub Actions" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" />
+
+  <!-- Databases -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="ElasticSearch" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="Redis" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ" width="40" />
+
+  <!-- Frontend -->
+  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />
+
+  <!-- Extras -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/golang/golang-original.svg" alt="Golang" width="40" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=moongazing&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moongazing&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=moongazing&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 🌍 Let’s Connect!
+
+- 📧 [tunahan.ali.ozturk@outlook.com](mailto:tunahan.ali.ozturk@outlook.com)
+- 💼 [LinkedIn](https://linkedin.com/in/tunahan-ali-ozturk)
+- 🐦 [Twitter](https://twitter.com/moongazing2)
+- 📸 [Instagram](https://instagram.com/moongazinng)
+- 🧠 [LeetCode](https://leetcode.com/moongazing)
+
+---
+
+> *"I don't just write code — I build scalable systems, craft efficient architectures, and solve real-world problems with elegant tech."*
+
