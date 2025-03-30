@@ -33,38 +33,38 @@ I'm a passionate software engineer with over **8 years of hands-on experience** 
 
 <p align="center">
   <!-- Backend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" />
-  <img src="https://cdn.worldvectorlogo.com/logos/grpc-1.svg" alt="gRPC" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" alt="GraphQL" width="40" />
-  <img src="https://cdn.worldvectorlogo.com/logos/kafka.svg" alt="Apache Kafka" width="40" />
-  <img src="https://learn.microsoft.com/en-us/aspnet/core/signalr/media/signalr-logo.png" alt="SignalR" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/OData-logo.png" alt="OData" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="50" height="50"/>
+  <img src="https://grpc.io/img/logos/grpc-icon-color.png" alt="gRPC" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Apache Kafka" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/SignalR_Logo.svg" alt="SignalR" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/odata/odata-icon.svg" alt="OData" width="50" height="50"/>
 
   <!-- Cloud & DevOps -->
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" />
-  <img src="https://cdn.worldvectorlogo.com/logos/github-actions.svg" alt="GitHub Actions" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub Actions" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
 
   <!-- Databases -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="ElasticSearch" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="Redis" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="ElasticSearch" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="Redis" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ" width="50" height="50"/>
 
   <!-- Frontend -->
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />
+  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
 
   <!-- Extras -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/golang/golang-original.svg" alt="Golang" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/golang/golang-original.svg" alt="Golang" width="50" height="50"/>
 </p>
 
 ---
